@@ -1,0 +1,20 @@
+Requirements
+
+API Information
+Url: darksky.net
+Documentation: https://darksky.net/dev/docs
+API Key: 47dd4c596abbfb16bc6bd4be0ed3c661
+
+Description: The same API that powers Forecast.io and Dark Sky for iOS can provide
+accurate short-term and long-term weather predictions to your
+business, application, or crazy idea.
+Design an application that will report following weather statistics:
+● Current Weather
+● Upcoming Weather (Next Hour)
+● Tomorrow’s Weather
+● Next 7 Days Weather (Aggregate)
+● Five Day Forecast
+c. Bonus
+● You should be able to filter weather forecasts by City, State
+● Include weather icons for each forecast
+● Make the layout a responsive design
